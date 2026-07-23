@@ -1,7 +1,7 @@
 ## Hello there!!
 
 ### About me:
-I'm developing a mod in FNF. I also help people with game code in the Naxx language. I live in Russia. 
+I'm developing a mod in FNF. I also help people with game code in the Haxe language. I live in Russia. 
 
 RU/ENG
 
