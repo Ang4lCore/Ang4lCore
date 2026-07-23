@@ -1,7 +1,9 @@
 ## Hello there!!
 
 ### About me:
-I'm developing a mod in FNF. I also help people with game code in the Naxx language. I live in Russia 🇷🇺 RU/ENG
+I'm developing a mod in FNF. I also help people with game code in the Naxx language. I live in Russia. 
+
+RU/ENG
 
 Dev studio: [@WorldsmithFNF](https://github.com/WorldsmithFNF)
 
