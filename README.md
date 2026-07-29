@@ -5,7 +5,6 @@ I'm developing a mod in FNF. I also help people with game code in the Haxe langu
 
 RU/ENG
 
-Dev studio: [@WorldsmithFNF](https://github.com/WorldsmithFNF)
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
